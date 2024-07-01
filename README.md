@@ -1,5 +1,16 @@
 # Sales Performance Analysis
 
+# Sales Performance Analysis
+
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Objective](#objective)
+- [Tools Used](#tools-used)
+- [Dataset Overview](#dataset-overview)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Installation and Usage](#installation-and-usage)
+
 ## Problem Statement
 In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top performing products, optimizing inventory, managing returns, and ensuring efficient order fulfillment. Additionally, we need to understand the financial impact of discounts and returns to enhance our profit margins.
 
