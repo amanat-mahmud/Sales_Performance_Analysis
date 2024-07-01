@@ -7,6 +7,7 @@
 - [Dataset Overview](#-dataset-overview)
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
+- [Project Presentation](#-project-presentation)
 - [Installation and Usage](#-installation-and-usage)
 - [Dashboard](#-dashboard)
 
@@ -60,6 +61,12 @@ The primary objective of this analysis is to provide actionable insights into ou
 5. Investigate and address causes of high return rates to minimize associated losses.
 6. Maintain success of non-discounted products while adjusting strategies for other items.
 7. Enhance performance of other shipping modes to balance reliance on Standard class.
+
+## 📌 Project Presentation
+
+### Slides
+The detailed presentation slides for this project can be found here: [Slide](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
+
 
 ## 💻 Installation and Usage
 - Microsoft Excel
