@@ -34,8 +34,8 @@ The primary objective of this analysis is to provide actionable insights into ou
 - **Data size:** Orders Table (5009,22), Returns Table (296,2)
 - **Key columns:** Order Id, Ship Mode, Segment, City, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit
 - **Calculated columns:** Profit Margin, Average Order Value, Order Completion Rate, Actual Sales, Actual Profit, Amount Lost, Order Complete, Profit on No Discount, Sales on No Discount
-- [Data set Link](https://github.com/amanat-mahmud/sales_analysis/blob/main/dataset_superstore.xls)
-- [Data Model]("https://github.com/amanat-mahmud/sales_analysis/blob/main/data%20model.png)
+- [**Data set Link**](https://github.com/amanat-mahmud/sales_analysis/blob/main/dataset_superstore.xls)
+- [**Data Model**](https://github.com/amanat-mahmud/sales_analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
 - Total sales: $4.5M
