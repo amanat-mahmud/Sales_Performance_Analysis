@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis
 
-## Table of Contents
+## 📕 Table of Contents
 - [Problem Statement](#-problem-statement)
 - [Objective](#-objective)
 - [Tools Used](#%EF%B8%8F-tools-used)
