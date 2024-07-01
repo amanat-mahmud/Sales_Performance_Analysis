@@ -23,7 +23,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 5. Develop targeted strategies to reduce losses and enhance customer satisfaction.
 
 ## Tools Used
-- **Analytical & Visual:** <img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
+- **Analytical & Visual:** ![Microsoft Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 - **Presentation:** <img scr="{https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=whit}"> 
 
 ## Dataset Overview
