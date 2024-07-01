@@ -1,19 +1,19 @@
-# Sales Performance Analysis
+# 📊 Sales Performance Analysis
 
 ## Table of Contents
-- [Problem Statement](#problem-statement)
-- [Objective](#objective)
-- [Tools Used](#tools-used)
-- [Dataset Overview](#dataset-overview)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Installation and Usage](#installation-and-usage)
-- [Dashboard](#dashboard)
+- [Problem Statement](#-problem-statement)
+- [Objective](#-objective)
+- [Tools Used](#-tools-used)
+- [Dataset Overview](#-dataset-overview)
+- [Key Findings](#-key-findings)
+- [Recommendations](#-recommendations)
+- [Installation and Usage](#-installation-and-usage)
+- [Dashboard](#-dashboard)
 
-## Problem Statement
+## ❓ Problem Statement
 In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top performing products, optimizing inventory, managing returns, and ensuring efficient order fulfillment. Additionally, we need to understand the financial impact of discounts and returns to enhance our profit margins.
 
-## Objective
+## 🎯 Objective
 The primary objective of this analysis is to provide actionable insights into our sales performance, identify areas for improvement, and develop strategies to boost revenue and profitability. By examining key performance indicators (KPIs) and detailed sales metrics, we aim to:
 
 1. Identify best-selling products and high-revenue generators.
@@ -22,13 +22,13 @@ The primary objective of this analysis is to provide actionable insights into ou
 4. Analyze the efficiency of order fulfillment and the financial loss due to returns.
 5. Develop targeted strategies to reduce losses and enhance customer satisfaction.
 
-## Tools Used
+## 🛠️ Tools Used
 - **Analytical & Visual:**  Microsoft Excel\
   <img width="48" height="48" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 - **Presentation:** Microsoft Power Point\
   <img width="48" height="48" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
-## Dataset Overview
+## 📅 Dataset Overview
 - **Data source:** Internet
 - **Time period:** 2014-2017
 - **Data size:** Orders Table (5009,22), Returns Table (296,2)
@@ -38,7 +38,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 - **Data Model**\
   <img scr="https://github.com/amanat-mahmud/sales_analysis/blob/main/data%20model.png">
 
-## Key Findings
+## 🔎 Key Findings
 - Total sales: $4.5M
 - Profit margin: 2.88%
 - Best-selling product: OFF-BI-10000545
@@ -53,7 +53,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 - Discounting strategy: Current approach results in losses for top discounted products
 - Non-discounted products: Show higher profits and sales compared to discounted items
 
-##  Recommendations
+## 💡 Recommendations
 1. Optimize inventory and marketing for top-performing products, especially OFF-BI-10000545.
 2. Focus on expanding in high-performing regions (East and West) while developing strategies for underperforming areas.
 3. Reevaluate the discounting strategy to minimize losses and maximize profitability.
@@ -62,9 +62,9 @@ The primary objective of this analysis is to provide actionable insights into ou
 6. Maintain success of non-discounted products while adjusting strategies for other items.
 7. Enhance performance of other shipping modes to balance reliance on Standard class.
 
-##  Installation and Usage
+## 💻 Installation and Usage
 - Microsoft Excel
 
 
-## Dashboard
+## 📈 Dashboard
 <img src="https://github.com/amanat-mahmud/sales_dashboard/blob/main/dashboard_ss.png">
