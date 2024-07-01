@@ -10,6 +10,7 @@
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Installation and Usage](#installation-and-usage)
+- [Dashboard](#dashboard)
 
 ## Problem Statement
 In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top performing products, optimizing inventory, managing returns, and ensuring efficient order fulfillment. Additionally, we need to understand the financial impact of discounts and returns to enhance our profit margins.
