@@ -48,9 +48,6 @@ The primary objective of this analysis is to provide actionable insights into ou
 6. Maintain success of non-discounted products while adjusting strategies for other items.
 7. Enhance performance of other shipping modes to balance reliance on Standard class.
 
-## Project Structure
-[Add information about project structure, files, and directories]
-
 ## Installation and Usage
 - Microsoft Excel
 
