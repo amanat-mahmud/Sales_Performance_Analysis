@@ -8,6 +8,7 @@
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
 - [Project Presentation](#-project-presentation)
+- [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
 - [Dashboard](#-dashboard)
 
@@ -67,6 +68,15 @@ The primary objective of this analysis is to provide actionable insights into ou
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
 
+## 🧠 Project Learnings
+1. Data Loading and Transformation: Improved skills in efficiently loading and cleaning large datasets, ensuring data integrity for accurate analysis.
+2. Pivot table analysis.
+3. Power Query and DAX.
+4. Data modeling.
+5. Data visualization.
+6. Conditional and clalculated column.
+7. Importance of data quality.
+8. Data storytelling.
 
 ## 💻 Installation and Usage
 - Microsoft Excel
