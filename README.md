@@ -23,7 +23,9 @@ The primary objective of this analysis is to provide actionable insights into ou
 5. Develop targeted strategies to reduce losses and enhance customer satisfaction.
 
 ## Tools Used
-- **Analytical & Visual:** Microsoft Excel
+- **Analytical & Visual:**
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+ Microsoft Excel
 - **Presentation:** Microsoft Power Point
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
