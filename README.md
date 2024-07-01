@@ -69,7 +69,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
 
 ## 🧠 Project Learnings
-1. Data Loading and Transformation: Improved skills in efficiently loading and cleaning large datasets, ensuring data integrity for accurate analysis.
+1. Data Loading and Transformations.
 2. Pivot table analysis.
 3. Power Query and DAX.
 4. Data modeling.
