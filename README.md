@@ -65,7 +65,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 ## 📌 Project Presentation
 
 ### Slides
-The detailed presentation slides for this project can be found here: [Slide](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
 
 
 ## 💻 Installation and Usage
