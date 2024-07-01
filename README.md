@@ -77,6 +77,9 @@ The detailed presentation slides for this project can be found [here](https://gi
 6. Conditional and clalculated column.
 7. Importance of data quality.
 8. Data storytelling.
+9. Sharpened analytical and problem-solving abilities.
+10. Strengthened strategic planning and  presentation skill.
+11. Enhanced communication skills.
 
 ## 💻 Installation and Usage
 - Microsoft Excel
