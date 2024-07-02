@@ -78,8 +78,9 @@ The detailed presentation slides for this project can be found [here](https://gi
 7. Importance of data quality.
 8. Data storytelling.
 9. Sharpened analytical and problem-solving abilities.
-10. Strengthened strategic planning and  presentation skill.
-11. Enhanced communication skills.
+10. Actionable Insights Generation.
+11. Strengthened strategic planning and  presentation skill.
+12. Enhanced communication skills.
 
 ## 💻 Installation and Usage
 - Microsoft Excel
