@@ -16,7 +16,7 @@
 In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top performing products, optimizing inventory, managing returns, and ensuring efficient order fulfillment. Additionally, we need to understand the financial impact of discounts and returns to enhance our profit margins.
 
 ## 🎯 Objective
-The primary objective of this analysis is to provide actionable insights into our sales performance, identify areas for improvement, and develop strategies to boost revenue and profitability. By examining key performance indicators (KPIs) and detailed sales metrics, we aim to:
+The primary objective of this analysis is to provide actionable insights into our sales performance, identify areas for improvement, and develop strategies to boost revenue and profitability. By examining key performance indicators (KPIs) and detailed sales metrics, aim is to:
 
 1. Identify best-selling products and high-revenue generators.
 2. Assess total revenue and profit margins to gauge financial health.
