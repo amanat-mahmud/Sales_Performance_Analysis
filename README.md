@@ -64,6 +64,8 @@ The primary objective of this analysis is to provide actionable insights into ou
 7. Enhance performance of other shipping modes to balance reliance on Standard class.
 
 ## 📌 Project Presentation
+### Video Presentation
+[![Sales Performance Analysis Presentation](https://youtu.be/9ovBY_H8mro)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/sales_analysis/blob/main/sales%20performance%20analysis.pdf)
